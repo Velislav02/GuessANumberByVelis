@@ -24,5 +24,4 @@ The game ends when the correct number is guessed.
 https://github.com/Velislav02
 
 ## Screenshots
-<img alt"Image" width="200px" src="![alt text](<Screenshot 2026-02-05 181130-1.png>)" / >
-<img alt"Image" width="200px" src="![alt text](<Screenshot 2026-02-05 181214.png>)" / >
+![alt text](<Screenshot 2026-02-05 181130-1.png>)![alt text](<Screenshot 2026-02-05 181214-1.png>)
